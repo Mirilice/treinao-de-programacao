@@ -19,6 +19,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] Gangorra - 2455.py, nível 1 (Ad-hoc) - Input com map(), if/elif/else
 - [x] Sinuca - 2466.py, nível 1 (Ad-hoc) - Listas (list() e append()), iteração
 - [x] Cartas - 2456.py, nível 2 (Ad-hoc) - For, booleano
+- [x] Tapetes - 2472.py, nível 2 (Ad-hoc) - Lógica matemática
 - [x] Loteria - 2473.py, nível 2 (Ad-hoc) - Uso do set() e interseção
 - [x] Língua do P - 2453.py, nível 4 (Ad-hoc) - Concatenação
 
