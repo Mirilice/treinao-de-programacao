@@ -21,6 +21,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] Cartas - 2456.py, nível 2 (Ad-hoc) - For, booleano
 - [x] Tapetes - 2472.py, nível 2 (Ad-hoc) - Lógica matemática
 - [x] Loteria - 2473.py, nível 2 (Ad-hoc) - Uso do set() e interseção
+- [x] Triângulo - 1929.py, nível 3 (Iniciante) - Funções
 - [x] Língua do P - 2453.py, nível 4 (Ad-hoc) - Concatenação
 
 **🔹 12/04 (Sáb)**
