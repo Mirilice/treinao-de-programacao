@@ -1,7 +1,7 @@
 # 🏁 Cronograma de Estudos  👩‍💻💜  
 📅 **Período**: 11/04 a 25/04  
 
-Este cronograma organiza os estudos por **categorias temáticas**, com exercícios diários para preparar de forma estratégica e equilibrada para competição. São 4 exercícios por dia.
+Este cronograma organiza os estudos por **categorias temáticas**, com exercícios diários para preparar de forma estratégica e equilibrada para competição. São 4 exercícios do Beecrowd por dia.
 
 ---
 
