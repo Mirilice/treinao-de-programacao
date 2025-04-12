@@ -11,6 +11,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Matriz Quadrada III - 1557.py, nível 1](./Iniciante/1557.py) - Matriz, formatação, alinhamento e tamanho de campo
 - [x] [Vai Ter Copa? - 1564.py, nível 2](./Iniciante/1564.py) - EOF
 - [x] [Bob Conduite - 1589.py, nível 1](./Iniciante/1589.py) - Leitura de duas variáveis numa mesma entrada
+- [x] [Ho Ho Ho - 1759.py, nível 1](./Iniciante/1759.py) - Estrutura for e uso do end
 
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
