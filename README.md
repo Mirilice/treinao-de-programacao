@@ -13,6 +13,9 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Bob Conduite - 1589.py, nível 1](./Iniciante/1589.py) - Leitura de duas variáveis numa mesma entrada
 - [x] [Ho Ho Ho - 1759.py, nível 1](./Iniciante/1759.py) - Estrutura for e uso do end
 
+- [Olimpíada Brasileira de Informática 2014](./Simulados/OBI%202014/) 
+- [x] PacMan - 2451.py, nível 1 (Ad-hoc) - Estrutura for (comum e ao inverso), strip(), max()
+
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
 - [ ] 
