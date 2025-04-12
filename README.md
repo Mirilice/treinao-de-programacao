@@ -8,8 +8,9 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 ## 🧩 Iniciante
 **🔹 11/04 (Sex)**
 - Revisar entrada/saída, operadores, `if`, `for`, `while`, funções
-- [x] [Matriz Quadrada III - 1557.py](./Iniciante/1557.py) - Trabalho matriz, formatação, alinhamento e tamanho de campo
-- [x] [Vai Ter Copa? - 1564.py](./Iniciante/1564.py) - Trabalho com EOF
+- [x] [Matriz Quadrada III - 1557.py, nível 1](./Iniciante/1557.py) - Trabalho matriz, formatação, alinhamento e tamanho de campo
+- [x] [Vai Ter Copa? - 1564.py, nível 2](./Iniciante/1564.py) - Trabalho com EOF
+- [x] [Bob Conduite - 1589.py, nível 1](./Iniciante/1589.py) - Trabalho com leitura de duas variáveis numa mesma entrada
 
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
