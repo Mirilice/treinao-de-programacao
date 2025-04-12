@@ -17,6 +17,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] PacMan - 2451.py, nível 1 (Ad-hoc) - Estrutura for (comum e ao inverso), strip(), max()
 - [x] Flíper - 2454.py, nível 1 (Ad-hoc) - Input com map(), if/else
 - [x] Gangorra - 2455.py, nível 1 (Ad-hoc) - Input com map(), if/elif/else
+- [x] Sinuca - 2466.py, nível 1 (Ad-hoc) - Listas (list() e append()), iteração
 - [x] Língua do P - 2453.py, nível 4 (Ad-hoc) - Concatenação
 
 **🔹 12/04 (Sáb)**
