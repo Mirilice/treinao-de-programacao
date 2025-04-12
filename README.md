@@ -23,6 +23,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] Loteria - 2473.py, nível 2 (Ad-hoc) - Uso do set() e interseção
 - [x] Triângulo - 1929.py, nível 3 (Iniciante) - Funções
 - [x] Letras - 2457.py, nível 3 (Ad-hoc) - Format string
+- [x] Decifra - 2464.py, nível 3 (Ad-hoc) - Uso do index()
 - [x] Língua do P - 2453.py, nível 4 (Ad-hoc) - Concatenação
 - [x] Fila - 2460.py, nível 5 (Ad-hoc) - Método remove()
 
