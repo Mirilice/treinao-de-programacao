@@ -24,6 +24,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] Triângulo - 1929.py, nível 3 (Iniciante) - Funções
 - [x] Letras - 2457.py, nível 3 (Ad-hoc) - Format string
 - [x] Língua do P - 2453.py, nível 4 (Ad-hoc) - Concatenação
+- [x] Fila - 2460.py, nível 5 (Ad-hoc) - Método remove()
 
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
