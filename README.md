@@ -9,9 +9,9 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 **🔹 11/04 (Sex)**
 - Revisar entrada/saída, operadores, `if`, `for`, `while`, funções
 - [x] [Matriz Quadrada III - 1557.py, nível 1](./Iniciante/1557.py) - Matriz, formatação, alinhamento e tamanho de campo
-- [x] [Vai Ter Copa? - 1564.py, nível 2](./Iniciante/1564.py) - EOF
 - [x] [Bob Conduite - 1589.py, nível 1](./Iniciante/1589.py) - Leitura de duas variáveis numa mesma entrada
 - [x] [Ho Ho Ho - 1759.py, nível 1](./Iniciante/1759.py) - Estrutura for e uso do end
+- [x] [Vai Ter Copa? - 1564.py, nível 2](./Iniciante/1564.py) - EOF
 
 - [Olimpíada Brasileira de Informática 2014](./Simulados/OBI%202014/) 
 - [x] PacMan - 2451.py, nível 1 (Ad-hoc) - Estrutura for (comum e ao inverso), strip(), max(), leitura matriz
@@ -29,9 +29,9 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
-- [x] [A Corrida de Lesmas - 1789.py, nível 3](./Iniciante/1789.py) - EOF, list
 - [x] [Matriz Quadrada IV - 1827.py, nível 1](./Iniciante/1827.py) - Matriz
-
+- [x] [A Corrida de Lesmas - 1789.py, nível 3](./Iniciante/1789.py) - EOF, list
+- [x] [Bazinga! - 1828.py, nível 4](./Iniciante/1828.py) - Estrutura de repetição e decisão
 
 
 ---
