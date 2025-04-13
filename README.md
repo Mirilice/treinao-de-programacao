@@ -1,7 +1,7 @@
 # 🏁 Cronograma de Estudos  👩‍💻💜  
 📅 **Período**: 11/04 a 25/04  
 
-Este cronograma organiza os estudos por **categorias temáticas**, com exercícios diários para preparar de forma estratégica e equilibrada para competição. São 4 exercícios do Beecrowd por dia.
+Este cronograma organiza os estudos por **categorias temáticas**, com exercícios diários para preparar de forma estratégica e equilibrada para competição. São ao menos 4 exercícios do Beecrowd por dia.
 
 ---
 
@@ -14,7 +14,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Ho Ho Ho - 1759.py, nível 1](./Iniciante/1759.py) - Estrutura for e uso do end
 
 - [Olimpíada Brasileira de Informática 2014](./Simulados/OBI%202014/) 
-- [x] PacMan - 2451.py, nível 1 (Ad-hoc) - Estrutura for (comum e ao inverso), strip(), max()
+- [x] PacMan - 2451.py, nível 1 (Ad-hoc) - Estrutura for (comum e ao inverso), strip(), max(), leitura matriz
 - [x] Flíper - 2454.py, nível 1 (Ad-hoc) - Input com map(), if/else
 - [x] Gangorra - 2455.py, nível 1 (Ad-hoc) - Input com map(), if/elif/else
 - [x] Sinuca - 2466.py, nível 1 (Ad-hoc) - Listas (list() e append()), iteração
@@ -29,7 +29,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
-- [ ] 
+- [x] [A Corrida de Lesmas - 1789.py, nível 3](./Iniciante/1789.py) - EOF, list
 
 ---
 
