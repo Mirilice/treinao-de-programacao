@@ -32,6 +32,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Matriz Quadrada IV - 1827.py, nível 1](./Iniciante/1827.py) - Matriz
 - [x] [A Corrida de Lesmas - 1789.py, nível 3](./Iniciante/1789.py) - EOF, list
 - [x] [Bazinga! - 1828.py, nível 4](./Iniciante/1828.py) - Estrutura de repetição e decisão
+- [x] [Prefácio - 1837.py, nível 7](./Iniciante/1837.py) - Matemática (divisão euclidiana)
 
 
 ---
