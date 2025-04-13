@@ -30,6 +30,9 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 **🔹 12/04 (Sáb)**
 - Vetores e acumuladores
 - [x] [A Corrida de Lesmas - 1789.py, nível 3](./Iniciante/1789.py) - EOF, list
+- [x] [Matriz Quadrada IV - 1827.py, nível 1](./Iniciante/1827.py) - Matriz
+
+
 
 ---
 
