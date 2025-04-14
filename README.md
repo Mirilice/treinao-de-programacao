@@ -6,7 +6,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 ---
 
 ## 🧩 Iniciante
-**🔹 11/04 (Sex)**
+**🔹 11/04 (Sex) - DIA 1**
 - Revisar entrada/saída, operadores, `if`, `for`, `while`, funções
 - [x] [Matriz Quadrada III - 1557.py, nível 1](./Iniciante/1557.py) - Matriz, formatação, alinhamento e tamanho de campo
 - [x] [Bob Conduite - 1589.py, nível 1](./Iniciante/1589.py) - Leitura de duas variáveis numa mesma entrada
@@ -27,7 +27,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] Língua do P - 2453.py, nível 4 (Ad-hoc) - Concatenação
 - [x] Fila - 2460.py, nível 5 (Ad-hoc) - Método remove()
 
-**🔹 12/04 (Sáb)**
+**🔹 12/04 (Sáb) - DIA 2**
 - Vetores e acumuladores
 - [x] [Matriz Quadrada IV - 1827.py, nível 1](./Iniciante/1827.py) - Matriz
 - [x] [A Corrida de Lesmas - 1789.py, nível 3](./Iniciante/1789.py) - EOF, list
@@ -36,69 +36,70 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 -[Extras](./Aula1/)
 
+- [ACM International Collegiate Programming Contest](./Simulados/ACM/) 
 
 ---
 
 ## 🧪 Ad-hoc
-**🔹 13/04 (Dom)**
+**🔹 13/04 (Dom) - DIA 3**
 - Problemas de simulação e lógica direta
 - [ ] 
 
-**🔹 14/04 (Seg)**
+**🔹 14/04 (Seg) - DIA 4**
 - Mini simulado de ad-hoc (2 fáceis + 2 médios cronometrados)
 - [ ] 
 
 ---
 
 ## 🔤 Strings
-**🔹 15/04 (Ter)**
+**🔹 15/04 (Ter) - DIA 5**
 - Manipulação com `split`, `join`, `count`, etc.
 - [ ] 
 
 ---
 
 ## 🧱 Estruturas e Bibliotecas
-**🔹 16/04 (Qua)**
+**🔹 16/04 (Qua) - DIA 6**
 - Listas, dicionários, sets, `collections`
 - [ ] 
 
-**🔹 17/04 (Qui)**
+**🔹 17/04 (Qui) - DIA 7**
 - Matrizes (2D)
 - [ ] 
 
 ---
 
 ## ➗ Matemática
-**🔹 18/04 (Sex)**
+**🔹 18/04 (Sex) - DIA 8**
 - Matemática básica: primos, fatorial, divisores
 - [ ] 
 
-**🔹 19/04 (Sáb)**
+**🔹 19/04 (Sáb) - DIA 9**
 - Matemática intermediária: MDC, MMC, problemas com contagem
 - [ ] 
 
 ---
 
 ## 🧠 Paradigmas
-**🔹 20/04 (Dom)**
+**🔹 20/04 (Dom) - DIA 10**
 - Recursão e força bruta
 - [ ] 
 
-**🔹 21/04 (Seg)**
+**🔹 21/04 (Seg) - DIA 11**
 - Busca e ordenação
 - [ ] 
 
 ---
 
 ## 🌐 Grafos
-**🔹 22/04 (Ter)**
+**🔹 22/04 (Ter) - DIA 12**
 - Conceitos básicos e representação
 - [ ] 
 
 ---
 
 ## 📐 Geometria Computacional
-**🔹 23/04 (Qua)**
+**🔹 23/04 (Qua) - DIA 13**
 - Pontos, distâncias, áreas
 - [ ] 
 
@@ -106,14 +107,14 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 ## 📋 Revisão e Simulados
 
-**🔹 24/04 (Qui) – Simulado Final**
+**🔹 24/04 (Qui) – Simulado Final - DIA 14**
 - Simulado de 4 questões (1h30)
 - [ ] Ex. 1 – Nível fácil  
 - [ ] Ex. 2 – Nível médio  
 - [ ] Ex. 3 – Nível médio  
 - [ ] Ex. 4 – Nível difícil
 
-**🔹 25/04 (Sex) – Revisão**
+**🔹 25/04 (Sex) – Revisão - DIA 15**
 - Exercícios leves e variados
 - [ ] Ex. 1 – Iniciante  
 - [ ] Ex. 2 – Ad-hoc  
