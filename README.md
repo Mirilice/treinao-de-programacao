@@ -54,7 +54,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 ## 🔤 Strings
 **🔹 15/04 (Ter) - DIA 5**
 - Manipulação com `split`, `join`, `count`, etc.
-- [ ] 
+- [x] [Criptografia - 1024.py, nível 5](./Strings/1024.py) - Uso de isalpha(), chr(), ord()
 
 ---
 
