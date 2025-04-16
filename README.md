@@ -44,6 +44,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 **🔹 13/04 (Dom) - DIA 3**
 - Problemas de simulação e lógica direta
 - [x] [Carrega ou não Carrega? - 1026.py, nível 5](./Ad-Hoc/1026.py) - XOR (Exclusive OR)
+- [x] [Crise de Energia - 1031.py, nível 4](./Ad-Hoc/1031.py) - Problema matemático de Flávio Josefo (caso em que precisa descobrir o salto a partir da informação de qual foi o último valor)
 
 **🔹 14/04 (Seg) - DIA 4**
 - Mini simulado de ad-hoc (2 fáceis + 2 médios cronometrados)
