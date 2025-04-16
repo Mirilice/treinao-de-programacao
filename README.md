@@ -36,14 +36,14 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 -[Extras](./Aula1/)
 
-- [ACM International Collegiate Programming Contest](./Simulados/ACM/) 
+- [ACM International Collegiate Programming Contest](./Simulados/ACM/)  - Continuar mais uma daqui
 
 ---
 
 ## 🧪 Ad-hoc
 **🔹 13/04 (Dom) - DIA 3**
 - Problemas de simulação e lógica direta
-- [ ] 
+- [x] [Carrega ou não Carrega? - 1026.py, nível 5](./Ad-Hoc/1026.py) - XOR (Exclusive OR)
 
 **🔹 14/04 (Seg) - DIA 4**
 - Mini simulado de ad-hoc (2 fáceis + 2 médios cronometrados)
