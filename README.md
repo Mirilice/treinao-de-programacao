@@ -65,6 +65,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 **🔹 16/04 (Qua) - DIA 6**
 - Listas, dicionários, sets, `collections`
 - [x] [TDA Racional - 1022.py, nível 4](./Estruturas%20e%20Bibliotecas/1022.py) - Uso de MDC (Matemática)
+- [x] [Trilhos - 1062.py, nível 5](./Estruturas%20e%20Bibliotecas/1062.py) - Pilhas: Last In, First Out (LIFO)
 
 **🔹 17/04 (Qui) - DIA 7**
 - Matrizes (2D)
