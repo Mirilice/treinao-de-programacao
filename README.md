@@ -34,7 +34,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Bazinga! - 1828.py, nível 4](./Iniciante/1828.py) - Estrutura de repetição e decisão
 - [x] [Prefácio - 1837.py, nível 7](./Iniciante/1837.py) - Matemática (divisão euclidiana)
 
--[Extras](./Aula1/)
+-[Extras](./Aulas/Aula1/)
 
 - [ACM International Collegiate Programming Contest](./Simulados/ACM/)  - Continuar mais uma daqui
 
@@ -76,7 +76,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 ## ➗ Matemática
 **🔹 18/04 (Sex) - DIA 8**
 - Matemática básica: primos, fatorial, divisores
-- [ ] 
+- [x] [Figurinhas - 1028.py, nível 3](./Matemática/1028.py) - MDC
 
 **🔹 19/04 (Sáb) - DIA 9**
 - Matemática intermediária: MDC, MMC, problemas com contagem
