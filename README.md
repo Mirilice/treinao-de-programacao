@@ -69,7 +69,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 **🔹 17/04 (Qui) - DIA 7**
 - Matrizes (2D)
-- [ ] 
+- [x] [Trilhos Novamente... Traçando Movimentos - 1063.py, nível 4](./Estruturas%20e%20Bibliotecas/1063.py) - Pilhas: Last In, First Out (LIFO)
 
 ---
 
@@ -132,5 +132,6 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - Treinou, consegue 💪👑
 
 ---
+- Para olhar depois: [Problemas que ficaram com a saída esperada nos exemplos, mas deram TLE - Time limite exceeded](./Para%20ver%20depois%20-%20Time%20limit%20exceeded/)
 
 Feito com 💻 por **Maria Alice** – rumo à maratona com coragem e lógica! 🌟
