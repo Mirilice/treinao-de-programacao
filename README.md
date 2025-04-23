@@ -48,6 +48,8 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 
 -[Extras](./Aulas/Busca%20binária/)
 
+- [MFP 2024 Fase 1](./Simulados/MFP%202024.1/) 
+
 **🔹 14/04 (Seg) - DIA 4**
 - Mini simulado de ad-hoc (2 fáceis + 2 médios cronometrados)
 - [x] [A Lenda de Flavious Josephus - 1030.py, nível 4](./Ad-Hoc/1030.py) - Problema matemático (Flávio Josefo), método pop()
