@@ -34,7 +34,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Bazinga! - 1828.py, nível 4](./Iniciante/1828.py) - Estrutura de repetição e decisão
 - [x] [Prefácio - 1837.py, nível 7](./Iniciante/1837.py) - Matemática (divisão euclidiana)
 
--[Extras](./Aulas/Aula1/)
+-[Extras](./Aulas/Intro/)
 
 - [ACM International Collegiate Programming Contest](./Simulados/ACM/)  - Continuar mais uma daqui
 
@@ -46,7 +46,7 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - [x] [Carrega ou não Carrega? - 1026.py, nível 5](./Ad-Hoc/1026.py) - XOR (Exclusive OR)
 - [x] [Crise de Energia - 1031.py, nível 4](./Ad-Hoc/1031.py) - Problema matemático de Flávio Josefo (caso em que precisa descobrir o salto a partir da informação de qual foi o último valor)
 
--[Extras](./Aulas/Aula2/)
+-[Extras](./Aulas/Busca%20binária/)
 
 **🔹 14/04 (Seg) - DIA 4**
 - Mini simulado de ad-hoc (2 fáceis + 2 médios cronometrados)
