@@ -17,7 +17,7 @@
 
 quant_casas = int(input())
 casas = []
-valores = set()
+valores = set() #evita TLE, porque o set é mais rápido para verificar se um item existe
 for i in range(quant_casas):
     casa = int(input())
     casas.append(casa)
