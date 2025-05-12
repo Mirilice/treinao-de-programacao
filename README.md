@@ -1,7 +1,6 @@
-# 🏁 Cronograma de Estudos  👩‍💻💜  
-📅 **Período**: 11/04 a 25/04  
+# 🏁 Cronograma de Estudos  👩‍💻💜
 
-Este cronograma organiza os estudos por **categorias temáticas**, com exercícios diários para preparar de forma estratégica e equilibrada para competição. São ao menos 4 exercícios do Beecrowd por dia.
+Este cronograma organiza os estudos por **categorias temáticas**, com exercícios diários para preparar de forma estratégica e equilibrada para competição. Os exercícios são do Beecrowd.
 
 ---
 
@@ -84,54 +83,122 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 - Matemática básica: primos, fatorial, divisores
 - [x] [Figurinhas - 1028.py, nível 3](./Matemática/1028.py) - MDC
 
-**🔹 19/04 (Sáb) - DIA 9**
-- Matemática intermediária: MDC, MMC, problemas com contagem
-- [ ] 
+---
+
+- [MFP 2025 - 1ª fase](./Simulados/MFP%202025/)
 
 ---
 
-## 🧠 Paradigmas
-**🔹 20/04 (Dom) - DIA 10**
-- Recursão e força bruta
-- [ ] 
+**Cronograma Diario - Maratona Feminina de Programacao (Fase 2)**
+**Periodo: 12 de maio a 4 de julho de 2025**
+**Prova: 5 e 6 de julho**
 
-**🔹 21/04 (Seg) - DIA 11**
-- Busca e ordenação
-- [ ] 
+**Topicos principais (baseados no Beecrowd):**
+
+* Iniciante
+* Strings
+* Ad Hoc
+* Estruturas e Bibliotecas
+* Matematica
+* Paradigmas
+* Grafos
+* Geometria Computacional
+
+**Semana 1: 12/05 a 16/05 - Contest (18 questoes)**
+
+* *12/05 (Seg):* Resolver 4 questoes faceis (Iniciante, Strings)
+* *13/05 (Ter):* Resolver 4 questoes medias (Ad Hoc, Matematica)
+* *14/05 (Qua):* Resolver 4 questoes medias/dificeis (Matematica, Paradigmas)
+* *15/05 (Qui):* Resolver 4 questoes dificeis (Paradigmas, Estruturas)
+* *16/05 (Sex):* Resolver 2 restantes + revisao (Ad Hoc, Paradigmas)
+
+---
+
+**Semana 2: 17/05 a 23/05 - Iniciante + Strings**
+
+* 17/05 (Sab): Entrada e saida, input/output, formatacao (Iniciante)
+* 18/05 (Dom): Manipulacao de strings, contagem, fatiamento (Strings)
+* 19/05 (Seg): Estruturas condicionais e repeticao (Iniciante)
+* 20/05 (Ter): Problemas com strings + listas (Strings, Estruturas)
+* 21/05 (Qua): Reforco de questoes faceis e medias
+* 22/05 (Qui): Revisao semanal (resolver 1 extra + rever erros)
+* 23/05 (Sex): Mini simulado 1 (3 questoes mistas)
 
 ---
 
-## 🌐 Grafos
-**🔹 22/04 (Ter) - DIA 12**
-- Conceitos básicos e representação
-- [ ] 
+**Semana 3: 24/05 a 30/05 - Matematica + Ad Hoc**
+
+* 24/05 (Sab): MDC, MMC, divisores (Matematica)
+* 25/05 (Dom): Numeros primos e fatoracao (Matematica)
+* 26/05 (Seg): Problemas com regras especificas (Ad Hoc)
+* 27/05 (Ter): Aritmetica modular (Matematica)
+* 28/05 (Qua): Combinatoria e fatoriais (Matematica)
+* 29/05 (Qui): Revisao de Ad Hoc + 1 questao de cada
+* 30/05 (Sex): Mini simulado 2 (3 questoes mistas)
 
 ---
 
-## 📐 Geometria Computacional
-**🔹 23/04 (Qua) - DIA 13**
-- Pontos, distâncias, áreas
-- [ ] 
+**Semana 4: 31/05 a 06/06 - Estruturas e Bibliotecas**
+
+* 31/05 (Sab): Listas e tuplas (Estruturas)
+* 01/06 (Dom): Dicionarios e conjuntos (Estruturas)
+* 02/06 (Seg): Fila, pilha, deque (Bibliotecas)
+* 03/06 (Ter): Ordenacoes e lambda functions (Bibliotecas)
+* 04/06 (Qua): Uso de bibliotecas padrao (math, itertools)
+* 05/06 (Qui): Resolucao de problemas com estrutura combinada
+* 06/06 (Sex): Revisao + questoes extras
 
 ---
 
-## 📋 Revisão e Simulados
+**Semana 5: 07/06 a 13/06 - Paradigmas de Programacao**
 
-**🔹 24/04 (Qui) – Simulado Final - DIA 14**
-- Simulado de 4 questões (1h30)
-- [ ] Ex. 1 – Nível fácil  
-- [ ] Ex. 2 – Nível médio  
-- [ ] Ex. 3 – Nível médio  
-- [ ] Ex. 4 – Nível difícil
-
-**🔹 25/04 (Sex) – Revisão - DIA 15**
-- Exercícios leves e variados
-- [ ] Ex. 1 – Iniciante  
-- [ ] Ex. 2 – Ad-hoc  
-- [ ] Ex. 3 – Strings  
-- [ ] Ex. 4 – Matemática
+* 07/06 (Sab): Recursao (Paradigmas)
+* 08/06 (Dom): Backtracking (Paradigmas)
+* 09/06 (Seg): Revisao + debug visual com print
+* 10/06 (Ter): Programacao dinamica (memoizacao)
+* 11/06 (Qua): Programacao dinamica (bottom-up)
+* 12/06 (Qui): Busca binaria (Paradigmas)
+* 13/06 (Sex): Revisao geral + questao integrada
 
 ---
+
+**Semana 6: 14/06 a 20/06 - Grafos (Parte 1)**
+
+* 14/06 (Sab): Representacao de grafos (lista adj, matriz)
+* 15/06 (Dom): DFS (recursiva e iterativa)
+* 16/06 (Seg): BFS (fila, visitados)
+* 17/06 (Ter): Componentes conexos
+* 18/06 (Qua): Detectar ciclos, grafos aciclicos
+* 19/06 (Qui): Arvores em grafos
+* 20/06 (Sex): Revisao + simulacao
+
+---
+
+**Semana 7: 21/06 a 27/06 - Grafos (Parte 2)**
+
+* 21/06 (Sab): Dijkstra com heapq
+* 22/06 (Dom): Floyd-Warshall
+* 23/06 (Seg): Revisao dos algoritmos de caminho minimo
+* 24/06 (Ter): Kruskal e Prim (MST)
+* 25/06 (Qua): Pontes e articulacoes
+* 26/06 (Qui): Problemas com fluxo ou grafos em grids
+* 27/06 (Sex): Revisao geral de grafos
+
+---
+
+**Semana 8: 28/06 a 04/07 - Revisao Final**
+
+* 28/06 (Sab): Resolver questoes variadas (nivel medio)
+* 29/06 (Dom): Simulado completo (3h)
+* 30/06 (Seg): Revisar erros do simulado
+* 01/07 (Ter): Reforcar topicos com mais erros
+* 02/07 (Qua): Resolver questoes de maratonas passadas
+* 03/07 (Qui): Revisar os 3 temas mais dificeis
+* 04/07 (Sex): Revisao leve, descanso ativo
+
+**Prova: 05 e 06 de julho (Sab e Dom)**
+Boa sorte!
+
 
 - Foco nos fáceis primeiro  
 - Revisar estratégia de tempo  
