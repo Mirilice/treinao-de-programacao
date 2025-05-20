@@ -112,6 +112,8 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 * *15/05 (Qui):* Resolver 4 questoes dificeis (Paradigmas, Estruturas)
 * *16/05 (Sex):* Resolver 2 restantes + revisao (Ad Hoc, Paradigmas)
 
+- [MFP 2025 - Contest 01](./Simulados/ContestMFP2025/)
+
 ---
 
 **Semana 2: 17/05 a 23/05 - Iniciante + Strings**
@@ -120,6 +122,11 @@ Este cronograma organiza os estudos por **categorias temáticas**, com exercíci
 * 18/05 (Dom): Manipulacao de strings, contagem, fatiamento (Strings)
 * 19/05 (Seg): Estruturas condicionais e repeticao (Iniciante)
 * 20/05 (Ter): Problemas com strings + listas (Strings, Estruturas)
+    Strings:
+    - [x] [Plano de Dieta - 1248.py, nível 2](./Strings/1248.py) - replace() & sorted() (sort() não pode usar diretamente em string)
+    - [x] [Leitura Múltipla - 1262.py, nível 2](./Strings/1262.py) - EOF e condições para contar itens numa string
+    Estruturas:
+    - [x] [Pares e Ímpares - 1259.py, nível 3](./Estruturas%20e%20Bibliotecas/1259.py) - append(), sort()
 * 21/05 (Qua): Reforco de questoes faceis e medias
 * 22/05 (Qui): Revisao semanal (resolver 1 extra + rever erros)
 * 23/05 (Sex): Mini simulado 1 (3 questoes mistas)
