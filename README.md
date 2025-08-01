@@ -214,4 +214,8 @@ Boa sorte!
 ---
 - Para olhar depois: [Problemas que ficaram com a saída esperada nos exemplos, mas deram TLE - Time limite exceeded](./Para%20ver%20depois%20-%20Time%20limit%20exceeded/)
 
+---
+
+- [x] [Find the Index of the First Occurrence in a String - 28.py, Easy](./Simulados/aula%20ifba/Leetcode/28.py) - Método find() - usado para localizar a posição (índice) da primeira ocorrência de uma substring dentro de uma string. Ele retorna o índice dessa ocorrência, ou -1 se a substring não for encontrada
+
 Feito com 💻 por **Maria Alice** – rumo à maratona com coragem e lógica! 🌟
